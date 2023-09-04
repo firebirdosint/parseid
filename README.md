@@ -6,5 +6,5 @@ Then:
 ```
 git clone https://github.com/firebirdosint/parseid.git
 cd parseid
-python3 parseid.py -f <filename>
+python3 parseid.py -f <path to html file>
 ```
